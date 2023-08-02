@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9b6b4c83.css","mappings":"AAAA,wBACE,wBAAiB,CAAjB,gBACF,CCFA,KAEE,wBAA2B,CAC3B,UAAY,CACZ,YAAa,CAHb,iBAIF","sources":["index.css","App.css"],"sourcesContent":[".accordian-button::after{\n  filter: invert(1);\n}",".App {\n  text-align: center;\n  background-color: rosybrown;\n  color: white;\n  height: 200vh;\n}"],"names":[],"sourceRoot":""}
